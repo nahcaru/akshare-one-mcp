@@ -1,0 +1,9 @@
+{
+  "setup": [],
+  "command": "uv",
+  "args": [
+    "run",
+    "akshare-one-mcp"
+  ],
+  "env": {}
+}
